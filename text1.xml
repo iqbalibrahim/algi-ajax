@@ -1,0 +1,28 @@
+<text>
+	<isi>
+		<table>
+			<th>Nama</th>
+			<th>NIM</th>
+			<th>Kelas</th>
+			<tr>
+				<td>Algi Fahri</td>
+				<td>1755301055</td>
+				<td>1 TI C</td>
+			</tr>
+			<tr>
+				<td>Hendra</td>
+				<td>1755301049</td>
+				<td>1 TI C</td>
+			</tr>
+			<tr>
+				<td>Kurnia Prijiandi</td>
+				<td>1755301069</td>
+				<td>1 TI C</td>
+			</tr>
+			<tr>
+				<td>Reychan</td>
+				<td>1755301106</td>
+				<td>1 TI C</td>
+			</tr>
+	</isi>
+</text>
